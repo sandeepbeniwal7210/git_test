@@ -5,3 +5,5 @@ echo $SUM
 
 echo "preeti beniwal"
 echo "hansika beniwal"
+echo "sandeep beniwal"
+echo "kunika beniwal"
